@@ -1,68 +1,62 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia</h3>
+<div align="center">
+  <a href="https://portofolio-michael.vercel.app/">
+    <img src="https://github.com/michaelfeb.png?size=160" alt="Michael Febrian" width="120" height="120" />
+  </a>
+
+  <h1>Hey, I'm Michael Febrian 👋</h1>
+  <p><strong>Software Engineer</strong> at Sinar Alam Group · Banjarmasin, Indonesia</p>
+  <p>I turn coffee into thoughtful, reliable software.</p>
+
+  <a href="https://portofolio-michael.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/michaelfeb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/michaelfeb_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
+
+<br />
+
+### `const michael = { ... }`
+
+```ts
+const michael = {
+  role: "Software Engineer",
+  basedIn: "Banjarmasin, South Kalimantan, Indonesia",
+  currentlyBuilding: "reliable software at Sinar Alam Group",
+  learning: ["React", "Go"],
+  workingWith: ["TypeScript", "Vue", "Laravel", "PostgreSQL", "Docker"],
+  portfolio: "portofolio-michael.vercel.app",
+  motto: "Turn coffee into magical software ☕",
+};
+```
+
+### Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### A few things I've built
+
+- [Carwash App](https://github.com/michaelfeb/carwash-app) — a TypeScript project.
+- [SIARSIP](https://github.com/michaelfeb/SIARSIP) — a Vue project.
+- [Ragam Nusa](https://github.com/michaelfeb/ragam-nusa) — a PHP project.
+
+### GitHub at a glance
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michaelfeb&label=Profile%20views&color=0e75b6&style=flat" alt="michaelfeb" />
-</p>
-
----
-
-## About Me
-
-I'm currently working on **Sinar Alam Group** while learning about **React** and **Golang Language**. 
-📂 See my portfolio here: [portofolio-michael.vercel.app](https://portofolio-michael.vercel.app/)
-
----
-
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/michaelfeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelfeb" height="30" width="40" /></a>
-<a href="https://instagram.com/michaelfeb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaelfeb_" height="30" width="40" /></a>
-</p>
-
----
-
-## Languages and Tools:
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelfeb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelfeb&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michaelfeb&theme=tokyonight" alt="Michael's GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelfeb&theme=tokyonight" alt="Michael's top languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelfeb&theme=radical&hide_border=true&count_private=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=michaelfeb&theme=tokyonight&hide_border=true" alt="Michael's GitHub contribution streak" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michaelfeb&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelfeb&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/michaelfeb">michaelfeb</a></i>
-</p>
+<div align="center">
+  <sub>Thanks for stopping by — I'm always happy to connect.</sub>
+</div>
