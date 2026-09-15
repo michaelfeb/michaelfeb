@@ -14,7 +14,7 @@
 
 <br />
 
-### `const michael = { ... }`
+### About me
 
 ```ts
 const michael = {
@@ -40,22 +40,15 @@ const michael = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### A few things I've built
+### Contribution activity
 
-- [Carwash App](https://github.com/michaelfeb/carwash-app) — a TypeScript project.
-- [SIARSIP](https://github.com/michaelfeb/SIARSIP) — a Vue project.
-- [Ragam Nusa](https://github.com/michaelfeb/ragam-nusa) — a PHP project.
-
-### GitHub at a glance
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michaelfeb&theme=tokyonight" alt="Michael's GitHub stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelfeb&theme=tokyonight" alt="Michael's top languages" height="165" />
+<p>
+  <a href="https://github.com/michaelfeb">
+    <img src="https://img.shields.io/badge/1%2C325%20contributions%20in%20the%20last%20year-238636?style=for-the-badge&logo=github&logoColor=white" alt="1,325 GitHub contributions in the last year" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=michaelfeb&theme=tokyonight&hide_border=true" alt="Michael's GitHub contribution streak" />
-</p>
+<sub>Across personal and organization repositories · <a href="https://github.com/michaelfeb">view my full GitHub activity</a></sub>
 
 <div align="center">
   <sub>Thanks for stopping by — I'm always happy to connect.</sub>
